@@ -3,4 +3,4 @@
 
 |Date|Questions|Solution|
 |-----------| -------- | ----------|
-|July-1|Arranging Coins|📃(arrangeCoins.java)|
+|July-1|Arranging Coins|[📃](arrangeCoins.java)|
