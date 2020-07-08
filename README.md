@@ -10,3 +10,4 @@
 |2020-July-5|[Hamming Distance](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/)|[📃](hammingDiff.java)|
 |2020-July-6|[Plus One](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/)|[📃](plusOne.java)|
 |2020-July-7|[Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/)|[📃](islandPerimeter.java)|
+|2020-July-8|[Three Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)|[📃](threeSum.java)|
