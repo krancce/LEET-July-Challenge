@@ -1,13 +1,6 @@
 
 public class flattenDL{
-  class Node {
-    public int val;
-    public Node prev;
-    public Node next;
-    public Node child;
-  };
-
-
+ 
   public Node flatten(Node head) {
     if(head == null){
       return head;
@@ -17,7 +10,6 @@ public class flattenDL{
     previous.val = -1;
     Node curr = new Node();
     Stack<Node> s = new Stack();
-    Queue<Node> q = new LinkedList();
     s.push(head);
     while(!s.isEmpty()){
       curr = s.peek();
