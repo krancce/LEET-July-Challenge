@@ -13,3 +13,4 @@
 |2020-July-8|[Three Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)|[📃](threeSum.java)|
 |2020-July-9|[Maximum Width Of BST](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/)|[📃](BSTwidth.java)|
 |2020-July-10|[Flatten a Multilevel Doubly-LinkedList](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/)|[📃](flattenDL.java)|
+|2020-July-11|[Subsets](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/)|[📃](subsets.java)|
