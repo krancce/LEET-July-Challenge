@@ -12,3 +12,4 @@
 |2020-July-7|[Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/)|[📃](islandPerimeter.java)|
 |2020-July-8|[Three Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)|[📃](threeSum.java)|
 |2020-July-9|[Maximum Width Of BST](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/)|[📃](BSTwidth.java)|
+|2020-July-10|[Flatten a Multilevel Doubly-LinkedList](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/)|[📃](flattenDL.java)|
