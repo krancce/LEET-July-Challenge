@@ -17,3 +17,5 @@
 |2020-July-12|[Reverse Bits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/)|[📃](reverseInt.java)|
 |2020-July-13|[Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)|[📃](sameTree.java)|
 |2020-July-14|[Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/)|[📃](clockAngle.java)|
+|2020-July-14|[Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/)|[📃](clockAngle.java)|
+|2020-July-16|[Pow(x,n)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/)|[📃](pow.java)|
