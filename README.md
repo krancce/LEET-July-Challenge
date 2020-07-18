@@ -20,3 +20,4 @@
 |2020-July-14|[Reverse Words In a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)|[📃](reverseWords.java)|
 |2020-July-16|[Pow(x,n)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/)|[📃](pow.java)|
 |2020-July-17|[Top K Frequent Elements)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)|[📃](frequentEle.java)|
+|2020-July-17|[Course Schedule](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/)|[📃](couorseSchedule.java)|
