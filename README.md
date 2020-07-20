@@ -20,4 +20,6 @@
 |2020-July-14|[Reverse Words In a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)|[📃](reverseWords.java)|
 |2020-July-16|[Pow(x,n)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/)|[📃](pow.java)|
 |2020-July-17|[Top K Frequent Elements)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)|[📃](frequentEle.java)|
-|2020-July-17|[Course Schedule](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/)||
+|2020-July-18|[Course Schedule](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/)||
+|2020-July-19|[Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)|[📃](addBinary.java)|
+|2020-July-20|[Remove LinekdList Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/)|[📃](removeLinkedList.java)|
