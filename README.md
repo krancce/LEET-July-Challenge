@@ -26,3 +26,4 @@
 |2020-July-21|[Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/)|[📃](wordSearch.java)|
 |2020-July-22|[BST ZigZag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/)|[📃](zigzagTraversal.java)|
 |2020-July-23|[Single Number](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/)|[📃](singleNum.java)|
+|2020-July-24|[All Paths From Source to Target](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/)|[📃](allPath.java)|
