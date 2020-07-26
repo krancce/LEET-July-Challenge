@@ -28,3 +28,4 @@
 |2020-July-23|[Single Number](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/)|[📃](singleNum.java)|
 |2020-July-24|[All Paths From Source to Target](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/)|[📃](allPath.java)|
 |2020-July-25|[Find Minimum in Rotated Sorted Array](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/)|[📃](rotatedSort.java)|
+|2020-July-26|[Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/)|[📃](addDigits.java)|
