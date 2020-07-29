@@ -30,3 +30,4 @@
 |2020-July-25|[Find Minimum in Rotated Sorted Array](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/)|[📃](rotatedSort.java)|
 |2020-July-26|[Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/)|[📃](addDigits.java)|
 |2020-July-27|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/)|[📃](trees.java)|
+|2020-July-27|[Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3404/)|[📃]()|
